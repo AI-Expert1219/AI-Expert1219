@@ -2,7 +2,7 @@
 <h3 align="center">Sr. Machine Learning & Generative AI Engineer | Naperville, IL</h3>
 
 <p align="center">
-  <a href="mailto:martinezaustin078@gmail.com">📧 Email</a> • mailto:martinezaustin078@gmail.com
+  <a href="mailto:martinezaustin078@gmail.com">📧 Email</a> • martinezaustin078@gmail.com
   <a href="tel:+15203148201">📞 Call</a> • +1 (520) 314-8201
 </p>
 
